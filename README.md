@@ -1,25 +1,13 @@
-# Velora – One Page Template
-
-#### Preview
-
-- [Demo](https://themewagon.github.io/velora/)
-
-#### Download
-
-- [Download from ThemeWagon](https://themewagon.com/themes/velora/)
-
-## Getting Started
-
 1. Clone Repository
 
 ```
-git clone https://github.com/themewagon/velora.git
+git clone https://github.com/velora.git
 ```
 
 2. Install Dependencies
 
 ```
-npm i
+npm install
 ```
 
 3. Run the development server:
